@@ -39,16 +39,31 @@ list for storing entries
 dictionary for emotion classification and prompt mapping
 Project Structure
 EMOTEUM_APPLICATION/
-│
+│                                                                                                                                                                
+
 ├── emoteum.py
+
 ├── EmotionEntry Class
+
 ├── EmotionStorage Class
+
 ├── Tag Class
+
 ├── ClassificationSystem Class
+
 ├── Archive Class
+
 ├── EmotionTag Class
+
 ├── PromptRepository Class
+
 ├── PromptEngine Class
+
 ├── User Class
+
 ├── AccessControlManager Class
+
 └── Main Application Runner
+
+How To Run
+   1. 
