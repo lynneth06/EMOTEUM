@@ -67,4 +67,29 @@ EMOTEUM_APPLICATION/
 └── Main Application Runner
 
 How To Run
-   1. 
+   1. Requirement Python 3.x
+   2. Clone this repository:
+           Git clone https://github.com/lynneth06/EMOTEUM
+Navigate the project folder:
+    EMOTEUM
+Run the Application:
+     Python main.py
+Running Test
+Run automated test using pytest:
+      Py-m pytest-v
+Or run the test in the test folder:
+      pytest test/
+Export Report
+Inside the application:
+1. Go to the Report Tab 
+2. Click Export Report
+3. Output file will be saved as:
+    Report.txt
+
+Author
+Developed as a school project by:
+•	Jeralyn Luna (GitHub Profile of Luna)
+(https://github.com/Jera-collab)
+•	Lynneth Giba (GitHub Profile of Giba)
+(https://github.com/lynneth06)
+
